@@ -1,0 +1,5 @@
+2023-25-06 18:29:55  INFO [MainClassDouble] : Info
+2023-25-06 18:29:55  ERROR [MainClassDouble] : Error info
+2023-25-06 18:40:57  INFO [MainClassDouble] : Info
+2023-25-06 18:40:57  DEBUG [MainClassDouble] : Debug info
+2023-25-06 18:40:57  ERROR [MainClassDouble] : Error info
